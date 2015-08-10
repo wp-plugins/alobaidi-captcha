@@ -1,36 +1,39 @@
 === Alobaidi Captcha ===
 Contributors: Alobaidi
 Donate link: http://j.mp/WPTime_donations
-Tags: captcha, alobaidi-captcha, comment captcha, login captcha, register captcha, form, login, form captcha, rtl, rest password captcha, lost password, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode
+Tags: captcha, alobaidi-captcha, comment captcha, login captcha, register captcha, form, login, form captcha, rtl, rest password captcha, lost password, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode, spam, anti, anti-spam, antispam, spam comments
 Requires at least: 2.8.0
 Tested up to: 4.2.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add captcha to forms easily, comment form, login form, register form, rest password form, easy to use and translate ready.
+Add captcha to forms easily, comment form, login form, register form, rest password form, easy to use and translate ready, no spam comments with Alobaidi Captcha.
 
 == Description ==
 
 ### Alobaidi Captcha
 
-Add captcha to forms easily, comment form, login form, register form, rest password form, easy to use and translate ready.
+Add captcha to forms easily, comment form, login form, register form, rest password form, easy to use and translate ready, no spam comments with Alobaidi Captcha.
 
 ### The Features
 
 1. Just activate this plugin to add captcha, easy to use.
-2. All WordPress forms support, login form, comment form, register form, reset password form.
-3. Options to disable any captcha for any form.
-4. Option to disable comment captcha if user is logged.
-5. Translate ready, translate texts and error messages to your language easily.
-6. RTL ready.
+2. No spam comments with Alobaidi Captcha!.
+3. All WordPress forms support, login form, comment form, register form, reset password form.
+4. Options to disable any captcha for any form.
+5. Option to disable comment captcha if user is logged.
+6. Translate ready, translate texts and error messages to your language easily.
+7. RTL ready.
 
 ### Live Demo
+
 * [http://j.mp/Alobaidi_Captcha](http://j.mp/Alobaidi_Captcha)
 
 ### Rate The Plugin
 
 * [Please rate Alobaidi Captcha plugin](https://wordpress.org/support/view/plugin-reviews/alobaidi-captcha#postform)
+* [Read people reviews](https://wordpress.org/support/view/plugin-reviews/alobaidi-captcha)
 
 ### See Also
 
