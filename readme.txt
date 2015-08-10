@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add captcha to forms easily, comment form, login form, register form, rest password form, easy to use and translate ready, no spam comments with Alobaidi Captcha.
+Add captcha to forms easily, comment form, login form, register form, rest password form, easy to use and translate ready, no spam comments!
 
 == Description ==
 
