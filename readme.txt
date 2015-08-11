@@ -18,8 +18,8 @@ Add captcha to forms easily, comment form, login form, register form, rest passw
 
 ### The Features
 
-1. Just activate this plugin to add captcha, easy to use.
-2. No spam comments with Alobaidi Captcha!.
+1. Just activate this plugin to add captcha, easy to use [See Installation](https://wordpress.org/plugins/alobaidi-captcha/installation/).
+2. No spam comments with Alobaidi Captcha! [See Screenshots](https://wordpress.org/plugins/alobaidi-captcha/screenshots/).
 3. All WordPress forms support, login form, comment form, register form, reset password form.
 4. Options to disable any captcha for any form.
 5. Option to disable comment captcha if user is logged.
@@ -44,7 +44,8 @@ Add captcha to forms easily, comment form, login form, register form, rest passw
 
 ### About
 
-* [The plugin designed and developed by Alobaidi.](http://j.mp/1HVBgA6)
+* [The plugin designed and developed by Alobaidi.](http://wp-plugins.in)
+* [Follow me on Twitter.](http://wp-plugins.in/1SQld8g)
 
 ### More Plugins
 
@@ -63,7 +64,8 @@ Add captcha to forms easily, comment form, login form, register form, rest passw
 
 ### FAQ
 
-* For more questions or help, [contact me](http://j.mp/1HVBgA6).
+* For more questions or help, [contact me](http://wp-plugins.in).
+* [Or on Twitter.](http://wp-plugins.in/1SQld8g)
 
 == Screenshots ==
 
@@ -72,4 +74,5 @@ Add captcha to forms easily, comment form, login form, register form, rest passw
 == Changelog ==
 
 = 1.0.0 =
+
 First version.
