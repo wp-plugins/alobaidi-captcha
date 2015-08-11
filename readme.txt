@@ -65,6 +65,10 @@ Add captcha to forms easily, comment form, login form, register form, rest passw
 
 * For more questions or help, [contact me](http://j.mp/1HVBgA6).
 
+== Screenshots ==
+
+1. I used Alobaidi Captcha more than 2 months, no spam comments! [More Screenshots](http://j.mp/Alobaidi_Captcha)
+
 == Changelog ==
 
 = 1.0.0 =
