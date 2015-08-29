@@ -4,7 +4,7 @@ Donate link: http://j.mp/WPTime_donations
 Tags: captcha, alobaidi-captcha, comment captcha, login captcha, register captcha, form, login, form captcha, rtl, rest password captcha, lost password, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode, spam, anti, anti-spam, antispam, spam comments
 Requires at least: 2.8.0
 Tested up to: 4.3
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -72,6 +72,10 @@ Add captcha to forms easily, comment form, login form, register form, rest passw
 1. I used Alobaidi Captcha more than 2 months, no spam comments! [More Screenshots](http://j.mp/Alobaidi_Captcha)
 
 == Changelog ==
+
+= 1.0.1 =
+
+* New error message.
 
 = 1.0.0 =
 

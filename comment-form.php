@@ -75,7 +75,7 @@ function Alobaidi_Captcha_Comment_Auth( $comment ){
 			if( get_option('alobaidi_captcha_error_txt') ){
 				$error_message = get_option('alobaidi_captcha_error_txt');
 			}else{
-				$error_message = 'Please enter correct total.';
+				$error_message = 'Please enter correct total, if repeat it, go back and refresh the page.';
 			}
 			
 			wp_die( $error_message );

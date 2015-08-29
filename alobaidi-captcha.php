@@ -3,7 +3,7 @@
 Plugin Name: Alobaidi Captcha
 Plugin URI: http://j.mp/Alobaidi_Captcha
 Description: Add captcha to forms easily, comment form, login form, register form, rest password form, easy to use and translate ready, no spam comments with Alobaidi Captcha.
-Version: 1.0.0
+Version: 1.0.1
 Author: Alobaidi
 Author URI: http://wp-plugins.in
 License: GPLv2 or later
