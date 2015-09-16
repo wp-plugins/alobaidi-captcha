@@ -3,8 +3,8 @@ Contributors: Alobaidi
 Donate link: http://j.mp/WPTime_donations
 Tags: captcha, alobaidi-captcha, comment captcha, login captcha, register captcha, form, login, form captcha, rtl, rest password captcha, lost password, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode, spam, anti, anti-spam, antispam, spam comments
 Requires at least: 2.8.0
-Tested up to: 4.3
-Stable tag: 1.0.1
+Tested up to: 4.3.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -24,11 +24,12 @@ Add captcha to forms easily, comment form, login form, register form, rest passw
 4. Options to disable any captcha for any form.
 5. Option to disable comment captcha if user is logged.
 6. Translate ready, translate texts and error messages to your language easily.
-7. RTL ready.
+7. Compatible with any wordpress theme, no need to customize CSS.
+8. RTL ready.
 
 ### Live Demo
 
-* [http://j.mp/Alobaidi_Captcha](http://j.mp/Alobaidi_Captcha)
+* [http://wp-plugins.in/Alobaidi_Captcha](http://wp-plugins.in/Alobaidi_Captcha)
 
 ### Rate The Plugin
 
@@ -42,14 +43,9 @@ Add captcha to forms easily, comment form, login form, register form, rest passw
 * [Premium WordPress themes on Themeforest.](http://j.mp/TF_WPTime)
 * [Premium WordPress plugins on Codecanyon.](http://j.mp/CC_WPTime)
 
-### About
-
-* [The plugin designed and developed by Alobaidi.](http://wp-plugins.in)
-* [Follow me on Twitter.](http://wp-plugins.in/1SQld8g)
-
 ### More Plugins
 
-* [My Plugins](https://profiles.wordpress.org/alobaidi/#content-plugins)
+* [My Plugins](https://profiles.wordpress.org/alobaidi#content-plugins)
 
 == Installation ==
 
@@ -58,20 +54,25 @@ Add captcha to forms easily, comment form, login form, register form, rest passw
 1. Upload 'alobaidi-captcha' folder to the '/wp-content/plugins/' directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to Plugins > Alobaidi Captcha.
-4. See this [article](http://j.mp/Alobaidi_Captcha).
+4. Read this [article](http://wp-plugins.in/Alobaidi_Captcha).
 
 == Frequently Asked Questions ==
 
 ### FAQ
 
-* For more questions or help, [contact me](http://wp-plugins.in).
-* [Or on Twitter.](http://wp-plugins.in/1SQld8g)
+* Read this [article](http://wp-plugins.in/Alobaidi_Captcha).
+* For more questions or help, [contact me](http://wp-plugins.in/1XnA5Qr).
+* [Or on Twitter.](http://wp-plugins.in/1L6zCZL)
 
 == Screenshots ==
 
-1. I used Alobaidi Captcha more than 2 months, no spam comments! [More Screenshots](http://j.mp/Alobaidi_Captcha)
+1. I used Alobaidi Captcha more than 2 months, no spam comments! [More Screenshots](http://wp-plugins.in/Alobaidi_Captcha)
 
 == Changelog ==
+
+= 1.0.2 =
+
+* Fixing problem in admin comment.
 
 = 1.0.1 =
 

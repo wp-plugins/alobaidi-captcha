@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Alobaidi Captcha
-Plugin URI: http://j.mp/Alobaidi_Captcha
+Plugin URI: http://wp-plugins.in/Alobaidi_Captcha
 Description: Add captcha to forms easily, comment form, login form, register form, rest password form, easy to use and translate ready, no spam comments with Alobaidi Captcha.
-Version: 1.0.1
+Version: 1.0.2
 Author: Alobaidi
 Author URI: http://wp-plugins.in
 License: GPLv2 or later
@@ -35,9 +35,9 @@ function Alobaidi_Captcha_plugin_row_meta( $links, $file ) {
 	if ( strpos( $file, 'alobaidi-captcha.php' ) !== false ) {
 		
 		$new_links = array(
-						'<a href="http://j.mp/Alobaidi_Captcha" target="_blank">Explanation of Use</a>',
+						'<a href="http://wp-plugins.in/Alobaidi_Captcha" target="_blank">Explanation of Use</a>',
 						'<a href="https://profiles.wordpress.org/alobaidi#content-plugins" target="_blank">More Plugins</a>',
-						'<a href="http://j.mp/ET_WPTime_ref_pl" target="_blank">Elegant Themes</a>',
+						'<a href="http://j.mp/ET_WPTime_ref_pl" target="_blank">Elegant Themes</a>'
 					);
 		
 		$links = array_merge( $links, $new_links );

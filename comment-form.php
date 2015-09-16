@@ -43,7 +43,7 @@ add_filter( 'comment_form_field_comment' , 'Alobaidi_Captcha_Comment_Field' );
 // Auth captcha
 function Alobaidi_Captcha_Comment_Auth( $comment ){
 	
-	if( get_option('alobaidi_captcha_user_logged') and is_user_logged_in() ){
+	if( get_option('alobaidi_captcha_user_logged') and is_user_logged_in() or is_admin() ){
 		return $comment;
 		return false;
 	}
