@@ -1,7 +1,7 @@
 === Alobaidi Captcha ===
 Contributors: Alobaidi
 Donate link: http://j.mp/WPTime_donations
-Tags: captcha, alobaidi-captcha, comment captcha, login captcha, register captcha, form, login, form captcha, rtl, rest password captcha, lost password, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode, spam, anti, anti-spam, antispam, spam comments
+Tags: captcha, alobaidi-captcha, comment captcha, login captcha, register captcha, form, login, form captcha, rtl, rest password captcha, lost password, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode, spam, anti, anti spam, antispam, spam comments
 Requires at least: 2.8.0
 Tested up to: 4.3.1
 Stable tag: 1.0.2
